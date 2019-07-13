@@ -1,4 +1,5 @@
 //Program for addition of two binary numbers using STL Stack
+
 #include <iostream>
 #include <stack>
 using namespace std;
