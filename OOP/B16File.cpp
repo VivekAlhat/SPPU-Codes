@@ -41,7 +41,7 @@ int main()
         fin>>data;
     }
     cout<<data;
-
+    
     fin.close();
     return 0;
 }
