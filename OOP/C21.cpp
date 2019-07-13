@@ -74,5 +74,6 @@ int main()
         cout<<"Do you want to continue? y or n"<<endl;
         cin>>ch;
     }while(ch=='y');
-return 0;
+
+    return 0;
 }
