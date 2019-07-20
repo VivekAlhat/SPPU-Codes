@@ -1,6 +1,5 @@
 #include <iostream>
 #define SIZE 5
-
 using namespace std;
 
 class pizza
