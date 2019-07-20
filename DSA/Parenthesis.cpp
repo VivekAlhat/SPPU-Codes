@@ -17,6 +17,7 @@ class Stack
 		void display();
 		void checkParenthesis();
 };
+
 bool Stack::isEmpty()
 {
 	if(top==-1)
