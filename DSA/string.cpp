@@ -2,6 +2,7 @@
 #include<string.h>
 #include<stdio.h>
 using namespace std;
+
 class str
 {
  public:
