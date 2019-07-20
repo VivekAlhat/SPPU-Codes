@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int partition(float x[100], int lb, int ub)
 {
     float a, temp;
