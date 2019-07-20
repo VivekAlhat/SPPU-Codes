@@ -38,6 +38,7 @@ class Queue
 	void remove();
 	void display();
 };
+
 bool Queue::isEmpty()
 {
 	if (front == (rear + 1) || rear == -1)
