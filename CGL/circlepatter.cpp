@@ -3,7 +3,6 @@
 #include<math.h>
 
 using namespace std;
-
 class cir
 {
 	int r,x,y,d;
@@ -118,5 +117,3 @@ int main()
 	getch();
 	closegraph();
 }
-
-
