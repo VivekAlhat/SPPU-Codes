@@ -40,6 +40,7 @@ void bezier(float xb,float yb,float xc,float yc,float xd,float yd,int n)
 		bezier(xbcd,ybcd,xcd,ycd,xd,yd,n);
 	}
 }
+
 int main()
 {
 	int i;
@@ -57,4 +58,3 @@ int main()
 	closegraph();
 	return 0;
 }
-
